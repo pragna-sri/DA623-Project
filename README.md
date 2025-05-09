@@ -11,4 +11,27 @@ This repository presents a concise study and presentation of **VisualBERT**, a p
 
 ---
 
+## 📽️ Presentation
+**Includes:**  
+- Motivation behind unifying visual and textual inputs  
+- Architecture and embedding strategy  
+- Pre-training objectives  
+- Results on VQA, VCR, NLVR2, Flickr30K  
+- Attention visualization examples  
+- Strengths, limitations, and future directions  
+
+---
+
+## 📓 Blog-Style Notebook
+
+The notebook contains:  
+- Motivation and context in multimodal learning  
+- Architecture breakdown with annotated diagrams  
+- Code snippet demo for attention simulation  
+- Visual explanation of attention over image regions  
+- Reflections and takeaways  
+
+
+
+
 
