@@ -1,5 +1,5 @@
 # DA623-Project
-# VisualBERT – Vision & Language Unified Through a Single Transformer  
+# VisualBERT – VisualBERT: Joint Vision and Language Representation  
 *DA623 Course Project — Winter 2025*  
 Rayala Naga Pragna Sri
 
