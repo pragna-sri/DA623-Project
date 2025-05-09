@@ -31,7 +31,10 @@ The notebook contains:
 - Visual explanation of attention over image regions  
 - Reflections and takeaways  
 
+## 🎥 Presentation Video (10 mins)
 
+Watch my recorded walkthrough here:  
+**▶️ [YouTube Video Link](https://youtu.be/PzHU8Kjwv-k)**
 
 
 
